@@ -1,4 +1,4 @@
-
+// Prima versione, ok ma non riesco ad eseguire un loop
 $(document).ready(function() {
 
   $('.next').click(function() {
